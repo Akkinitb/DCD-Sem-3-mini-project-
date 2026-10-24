@@ -2,7 +2,7 @@
 
 A dashboard-style web app that simplifies Boolean expressions, built with Python and Streamlit for a Digital Circuit Design (DCD) assignment.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** https://boolean-simplifier.streamlit.app/
 
 ## Features
 
